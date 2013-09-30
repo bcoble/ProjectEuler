@@ -1,7 +1,7 @@
 Project Euler Solutions
-==========
-Author: Ben Coble
 ----------
+Author: Ben Coble
+
 
 These are my solutions to problems on Project Euler (http://projecteuler.net)
 
