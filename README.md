@@ -1,5 +1,5 @@
 Project Euler Solutions
-
+----------
 Author: Ben Coble
 ==========
 
